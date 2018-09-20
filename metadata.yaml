@@ -1,0 +1,37 @@
+_repo: The-God-Plllnk_53034
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bruno
+    gutenberg_agent_id: '48519'
+    url: http://www.gutenberg.org/2009/agents/48519
+creator:
+  author:
+    agent_name: Bixby, Jerome
+    aliases:
+    - Bixby, Drexel Jerome Lewis
+    - Bixby, Jay Lewis
+    - Bixby, Jerry
+    birthdate: 1923
+    deathdate: 1998
+    gutenberg_agent_id: '34130'
+    url: http://www.gutenberg.org/2009/agents/34130
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_Bixby
+description: ''
+gutenberg_issued: '2016-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Phobos (Satellite) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: The God-Plllnk
+url: http://www.gutenberg.org/ebooks/53034
